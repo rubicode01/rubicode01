@@ -1,7 +1,8 @@
-# LOVE TO DESIGN & CODE <br/>It's all about ...
+# LOVE TO DESIGN & CODE <br/><br/>It's about ...
 
 
-<h3>...look & cool</h3>
+<h3>LOOK & FEEL</h3>
+
 
 <div>
 <table>
@@ -12,7 +13,7 @@
      <img src="https://simpleicons.org/icons/javascript.svg" width="40" height="40" rel="noreferrer">&nbsp;
    </td>
   </table>
-  <h3>...function</h3>
+  <h3>FUNCTION</h3>
 <table>
     <td>
         <img src="https://simpleicons.org/icons/express.svg" width="40" height="40" rel="noreferrer">&nbsp;
@@ -22,7 +23,7 @@
   </td>
 </table>
 
- <h3>...and organization</h3>
+ <h3>and ORGANIZATION</h3>
 <table>
     <td>
       <img src="https://simpleicons.org/icons/github.svg" width="40" height="40" rel="noreferrer" >&nbsp; 
@@ -38,8 +39,8 @@
    <div>
     <hr/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubicode01&layout=compact" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubicode01&langs_count=8&layout=compact&theme=vision-friendly-dark)
     
-
-  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubicode01&theme=highcontrast)
+ 
     
