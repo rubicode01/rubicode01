@@ -36,3 +36,10 @@
   </td>
 </table>
    <div>
+    <hr/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubicode01&layout=compact" />
+    
+
+  
+    
