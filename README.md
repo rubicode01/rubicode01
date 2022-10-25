@@ -1,5 +1,5 @@
 # DESIGN & CODE 
-<p>https://iam-ip.netlify.app/</p>
+<p>https://ip-designandcode.netlify.app/</p>
 
 
 <h3>LOOK & FEEL</h3>
