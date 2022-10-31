@@ -1,5 +1,5 @@
 # DESIGN & CODE 
-<a href="https://ip-designandcode.netlify.app/">>> Design & Code <<</a>
+<a href="https://ip-designandcode.netlify.app/">>> Design & Coding <<</a>
 
 
 <h3>LOOK & FEEL</h3>
